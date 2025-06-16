@@ -1,19 +1,17 @@
 
-import React from 'react';
-import Navbar from '@/components/Navbar';
-import Hero from '@/components/Hero';
-import ProductTour from '@/components/ProductTour';
-import HowItWorks from '@/components/HowItWorks';
-import CoreFeatures from '@/components/CoreFeatures';
-import FeatureSections from '@/components/FeatureSections';
-import Testimonials from '@/components/Testimonials';
-import Stats from '@/components/Stats';
-import Footer from '@/components/Footer';
+import Hero from '@/components/index/Hero';
+import ProductTour from '@/components/index/ProductTour';
+import HowItWorks from '@/components/index/HowItWorks';
+import CoreFeatures from '@/components/index/CoreFeatures';
+import FeatureSections from '@/components/index/FeatureSections';
+import Testimonials from '@/components/index/Testimonials';
+import Stats from '@/components/index/Stats';
+
 
 const Index = () => {
   return (
     <div className="flex flex-col min-h-screen">
-      <Navbar />
+      
       <main className="flex-grow">
         <Hero />
         <ProductTour />
@@ -23,7 +21,7 @@ const Index = () => {
         <Testimonials />
         <Stats />
       </main>
-      <Footer />
+      
     </div>
   );
 };

@@ -1,0 +1,76 @@
+{
+    "menuItems": [
+        {
+            "name": "Learn",
+            "id": "learn",
+            "children": [
+                {
+                    "name": "Our TrackStaff Tracks",
+                    "id": "our-trackstaff-tracks",
+                    "description": "Explore detailed data on staffing metrics, recruitment trends, and industry benchmarks.",
+                    "link": "/resources/track"
+                },
+                {
+                    "name": "Support Center",
+                    "id": "support-center",
+                    "description": "Find comprehensive support resources, troubleshooting guides, and FAQs.",
+                    "link": "/resources/support"
+                },
+                {
+                    "name": "Frequently Asked Questions",
+                    "id": "faq",
+                    "description": "Get answers to common questions about our services and features.",
+                    "link": "/resources/faq"
+                }
+            ]
+        },
+        {
+            "name": "Discover",
+            "id": "discover",
+            "children": [
+                {
+                    "name": "Blog & Insights",
+                    "id": "blog-insights",
+                    "description": "Read expert articles and insights on modern recruitment and staffing strategies.",
+                    "link": "#"
+                },
+                {
+                    "name": "Client Customer Stories",
+                    "id": "client-stories",
+                    "description": "Discover success stories and case studies from our valued clients.",
+                    "link": "#"
+                },
+                {
+                    "name": "In-Depth Case Studies",
+                    "id": "case-studies",
+                    "description": "Review in-depth analyses and performance evaluations of staffing projects.",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "name": "Connect",
+            "id": "connect",
+            "children": [
+                {
+                    "name": "Contact Sales",
+                    "id": "contact-sales",
+                    "description": "Reach out for a personalized consultation on our staffing solutions.",
+                    "link": "/contact"
+                },
+                {
+                    "name": "Community Forum",
+                    "id": "community-forum",
+                    "description": "Engage with industry professionals and share insights on best practices.",
+                    "link": "#"
+                },
+                {
+                    "name": "Careers",
+                    "id": "careers",
+                    "description": "Discover exciting career opportunities and join our innovative team.",
+                    "link": "#"
+                }
+            ]
+        }
+    ]
+}

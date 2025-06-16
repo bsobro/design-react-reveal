@@ -1,0 +1,57 @@
+{
+    "plans": [
+        {
+            "name": "Basic",
+            "id": "B",
+            "description": "Lorem ipsum dolor sit amet doloroli sitiol conse ctetur adipiscing elit. ",
+            "price": "1,20,000",
+            "priceDescription": "Annual Maintenance Charge (AMC) Rs. 30,000 per year",
+            "features": [
+                "Up to 25 Employees",
+                "Basic Time & Attendance Tracking",
+                "Simple Leave Management",
+                "Basic Reports"
+            ],
+            "notAvailable": [
+                "250 Users",
+                "10000 Tasks"
+            ]
+        },
+        {
+            "name": "Standard",
+            "id": "S",
+            "description": "Lorem ipsum dolor sit amet doloroli sitiol conse ctetur adipiscing elit. ",
+            "price": "1,60,000",
+            "priceDescription": "Annual Maintenance Charge (AMC) Rs. 50,000 per year",
+            "features": [
+                "Up to 100 Employees",
+                "Advanced Time & Attendance Tracking",
+                "Advanced Leave Management",
+                "Advanced Reports"
+            ],
+            "notAvailable": [
+                "100 Users",
+                "5000 Tasks"
+            ]
+        },
+        {
+            "name": "Enterprise",
+            "id": "E",
+            "description": "Lorem ipsum dolor sit amet doloroli sitiol conse ctetur adipiscing elit. ",
+            "price": "2,99,000",
+            "priceDescription": "Annual Maintenance Charge (AMC) Rs. 70,000 per year",
+            "features": [
+                "Unlimited Employees",
+                "Advanced Time & Attendance Tracking",
+                "Advanced Leave Management",
+                "Advanced Reports",
+                "Unlimited Users",
+                "Unlimited Tasks",
+                "Unlimited Projects"
+            ],
+            "notAvailable": [
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "menuItems": [
+        {
+            "name": "Getting Started",
+            "id": "getting-started",
+            "icon": "Mail",
+            "description": "Learn the basics of TrackStaff and get started with your account.",
+            "link": "/resources/support/getting-started"
+        },
+        {
+            "name": "Troubleshooting",
+            "id": "troubleshooting",
+            "icon": "ServerCrash",
+            "description": "Find solutions to common issues and resolve problems with our support resources.",
+            "link": "/resources/support/troubleshooting"
+        },
+        {
+            "name": "FAQs",
+            "id": "faqs",
+            "icon": "TableOfContents",
+            "description": "Get answers to common questions about our services and features.",
+            "link": "/resources/support/faq"
+        },
+        {
+            "name": "Contact Support",
+            "id": "contact-support",
+            "icon": "Mail",
+            "description": "Get answers to common questions about our services and features.",
+            "link": "/resources/support/faq"
+        },
+        {
+            "name": "Community",
+            "id": "community",
+            "icon": "Mail",
+            "description": "Get answers to common questions about our services and features.",
+            "link": "/resources/support/faq"
+        },
+        {
+            "name": "Resources",
+            "id": "resources",
+            "icon": "Mail",
+            "description": "Get answers to common questions about our services and features.",
+            "link": "/resources/support/faq"
+        }
+    ],
+
+
+    "faq": [
+        {
+            "question": "What is TrackStaff?",
+            "answer": "TrackStaff is a comprehensive staffing and recruitment platform that helps businesses find, hire, and manage their workforce efficiently."
+        },
+        {
+            "question": "How does TrackStaff work?",
+            "answer": "TrackStaff provides a user-friendly interface for managing staffing needs, including job postings, candidate tracking, and interview scheduling."
+        },
+        {
+            "question": "What are the benefits of using TrackStaff?",
+            "answer": "TrackStaff offers several benefits, such as streamlined recruitment processes, cost savings, and access to a pool of qualified candidates."
+        },
+        {
+            "question": "Is TrackStaff secure?",
+            "answer": "Yes, TrackStaff implements strong security measures to protect your data and ensure a secure environment for your recruitment needs."
+        },
+        {
+            "question": "How can I get started with TrackStaff?",
+            "answer": "To get started, you can sign up for a free account and begin using the platform's features to manage your recruitment needs."
+        }
+    ],
+
+
+    "method": [
+        {
+            "icon": "Mail",
+            "name": "Email Support",
+            "description": "Our team typically responds within 24 hours.",
+            "link": "mailto:support@trackstaff.com",
+            "linkText": "support@trackstaff.com"
+        },
+        {
+            "icon": "Phone",
+            "name": "Phone Support",
+            "description": "Available Sunday-Friday, 10AM-6PM.",
+            "link": "tel:+1234567890",
+            "linkText": "+1234567890"
+        },
+        {
+            "icon": "MessageCircle",
+            "name": "Live Chat Support",
+            "description": "Chat with our support team in real-time.",
+            "link": "#",
+            "linkText": "Chat with Support"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Task Completed",
+      "message": "Update home page design",
+      "time": "Today",
+      "link": "/admin/notifications",
+      "read": false,
+      "type": "task"
+    },
+    {
+      "id": 2,
+      "title": "Check-In",
+      "message": "You checked in at 10:00 AM", 
+      "time": "Today",
+      "link": "/admin/attendance",
+      "read": false,
+      "type": "attendance"
+    },
+    {
+      "id": 3,
+      "title": "Check-Out",
+      "message": "You checked out at 10:00 PM",
+      "time": "05:00 PM",
+      "link": "/admin/attendance",
+      "read": true,
+      "type": "attendance"
+    },
+    {
+      "id": 4,
+      "title": "Reminder",
+      "message": "Your leave is pending",
+      "time": "Yesterday",
+      "link": "/admin/reminder",
+      "read": false,
+      "type": "reminder"
+    },
+    {
+      "id": 5,
+      "title": "Meeting",
+      "message": "Meeting with John",
+      "time": "2025-05-04",
+      "link": "/admin/meeting",
+      "read": true,
+      "type": "meeting"
+    },
+    {
+      "id": 6,
+      "title": "Task Completed",
+      "message": "Redesign dashboard layout",
+      "time": "2 days ago",
+      "link": "/admin/notifications",
+      "read": false,
+      "type": "task"
+    },
+    {
+      "id": 7,
+      "title": "Performance Review",
+      "message": "Quarterly review scheduled",
+      "time": "Next week",
+      "link": "/admin/hr",
+      "read": false,
+      "type": "hr"
+    },
+    {
+      "id": 8,
+      "title": "System Update",
+      "message": "New software version available",
+      "time": "3 days ago",
+      "link": "/admin/system",
+      "read": true,
+      "type": "system"
+    },
+    {
+      "id": 9,
+      "title": "Project Deadline",
+      "message": "Project X deadline approaching",
+      "time": "Next week",
+      "link": "/admin/projects",
+      "read": false,
+      "type": "project"
+    },
+    {
+      "id": 10,
+      "title": "Training Session",
+      "message": "Mandatory training next month",
+      "time": "Upcoming",
+      "link": "/admin/hr",
+      "read": true,
+      "type": "hr"
+    }
+  ]
+}

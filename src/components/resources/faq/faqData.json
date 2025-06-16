@@ -1,0 +1,98 @@
+{
+	"faq": [
+		{
+			"id": "1",
+			"section": "General",
+			"questions": [
+				{
+					"question": "What is TrackStaff?",
+					"answer": "TrackStaff is an advanced employee time tracking and productivity monitoring software designed to help businesses streamline workforce management. It enables companies to track employee working hours, monitor app and website usage, and measure productivity levels in real time. With automated reports and analytics, managers can gain deep insights into team efficiency, identify workflow bottlenecks, and make data-driven decisions to enhance performance. \n Beyond time tracking, TrackStaff offers screenshots, activity monitoring, and payroll integration, making it a comprehensive solution for remote teams, freelancers, and hybrid workplaces. It ensures transparency, prevents time theft, and simplifies payroll processing by accurately recording billable hours. Whether managing in-office employees or remote workers, TrackStaff helps businesses optimize productivity, improve accountability, and maintain seamless project execution."
+				},
+				{
+					"question": "How does TrackStaff work?",
+					"answer": "TrackStaffWork is a comprehensive workforce management solution that simplifies the tracking of employee attendance and productivity. Employees access a secure online portal where they can clock in and out, record work hours, and possibly log breaks or task-specific details. This system not only facilitates accurate time tracking but also enables managers to oversee attendance, generate reports, and monitor overall productivity in real time. By digitizing these essential processes, TrackStaffWork aims to enhance operational efficiency and streamline workforce management, making it easier for businesses to manage their human resources effectively."
+				},
+				{
+					"question": "What features does TrackStaffWork offer?",
+					"answer": "The platform typically includes time tracking, attendance monitoring, report generation, and possibly payroll integration, all designed to help managers and HR departments keep track of productivity and streamline operations.The platform typically includes time tracking, attendance monitoring, report generation, and possibly payroll integration, all designed to help managers and HR departments keep track of productivity and streamline operations."
+				},
+				{
+					"question": "How secure is the TrackStaffWork platform?",
+					"answer": "Security is a key priority, as the system uses secure login protocols to protect employee data and ensure that only authorized personnel have access to sensitive information.Security is a key priority, as the system uses secure login protocols to protect employee data and ensure that only authorized personnel have access to sensitive information.Security is a key priority, as the system uses secure login protocols to protect employee data and ensure that only authorized personnel have access to sensitive information.Security is a key priority, as the system uses secure login protocols to protect employee data and ensure that only authorized personnel have access to sensitive information."
+				}
+			]
+		},
+		{
+			"id": "2",
+			"section": "Compliance, privacy, and security",
+			"questions": [
+				{
+					"question": "Is my data secure with TrackStaff?",
+					"answer": "Yes, TrackStaff uses industry-standard encryption protocols to ensure your data is secure. We comply with GDPR and other privacy regulations to protect user information."
+				},
+				{
+					"question": "Can employees see when they are being monitored?",
+					"answer": "Yes, transparency is key. Employees will be notified when monitoring is active, ensuring compliance with privacy laws and fostering trust within the team."
+				},
+				{
+					"question": "Does TrackStaff store sensitive employee data?",
+					"answer": "TrackStaff collects only the data necessary for monitoring productivity. Sensitive personal data is not stored unless explicitly required and consented to by the user."
+				}
+			]
+		},
+		{
+			"id": "3",
+			"section": "Operating System & Connections",
+			"questions": [
+				{
+					"question": "Which operating systems does TrackStaff support?",
+					"answer": "TrackStaff supports Windows, macOS, Linux, Android, and iOS, ensuring compatibility across a wide range of devices."
+				},
+				{
+					"question": "Do I need to install any software to use TrackStaff?",
+					"answer": "Yes, you need to install the TrackStaff application on the devices you wish to monitor. Installation is quick and straightforward."
+				},
+				{
+					"question": "Can TrackStaff be used on mobile devices?",
+					"answer": "Yes, TrackStaff offers mobile apps for both Android and iOS, allowing you to track productivity on the go."
+				}
+			]
+		},
+		{
+			"id": "4",
+			"section": "Pricing",
+			"questions": [
+				{
+					"question": "What are the pricing plans for TrackStaff?",
+					"answer": "TrackStaff offers flexible pricing plans, including Basic, Pro, and Enterprise tiers. Each plan includes different features and scalability options to suit your business needs."
+				},
+				{
+					"question": "Is there a free trial available?",
+					"answer": "Yes, TrackStaff provides a 14-day free trial for new users to explore its features before committing to a subscription."
+				},
+				{
+					"question": "Are there any hidden fees?",
+					"answer": "No, TrackStaff has a transparent pricing model with no hidden fees. All costs are clearly outlined on our pricing page."
+				}
+			]
+		},
+		{
+			"id": "5",
+			"section": "More Questions",
+			"questions": [
+				{
+					"question": "Can I integrate TrackStaff with other tools?",
+					"answer": "Yes, TrackStaff integrates seamlessly with popular project management and HR tools like Slack, Trello, Asana, and more."
+				},
+				{
+					"question": "How do I contact customer support?",
+					"answer": "You can reach TrackStaff's customer support team via email at support@trackstaff.com or through the live chat feature on our website."
+				},
+				{
+					"question": "Where can I find documentation and tutorials?",
+					"answer": "Our Help Center contains detailed documentation, video tutorials, and FAQs to assist you in getting the most out of TrackStaff."
+				}
+			]
+		}
+	]
+}

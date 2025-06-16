@@ -1,0 +1,84 @@
+{
+    "solutions": [
+        {
+            "id": "1",
+            "color": "#1AB189",
+            "icon": "Clock5",
+            "title": "Time Tracking & Attendance",
+            "image": "./img/laptop.jpeg",
+            "description": "Monitor work hours in real time to streamline payroll and reduce errors.",
+            "features": [
+                "Automatic Clock In/Out",
+                "Real-Time Attendance Dashboard",
+                "Time Sheets Approvals",
+                "Custom Overtime Settings"
+            ],
+            "shortDesc": "Centralize time tracking to enhance accuracy and boost productivity.",
+            "link": "/"
+        },
+        {
+            "id": "2",
+            "color": "#0D99FF",
+            "icon": "ClipboardList",
+            "title": "Project & Task Management",
+            "image": "./img/screen.jpeg",
+            "description": "Organize tasks, deadlines, and projects with and intuitive interface.",
+            "features": [
+                "Custom Task Status",
+                "Deadlines & Milestones",
+                "Assign Task",
+                "Task Dependencies"
+            ],
+            "shortDesc": "Keep every project on track with real-time updates and clear responsibilities.",
+            "link": "/contact"
+        },
+        {
+            "id": "3",
+            "color": "#CE76F2",
+            "icon": "MessageSquare",
+            "title": "Collaboration & Communication",
+            "image": "./img/laptop.jpeg",
+            "description": "Keep your team connected with integrated chat and notes and sharing files & links.",
+            "features": [
+                "Real-Time Chat & File Sharing",
+                "Integrated Project Notes",
+                "Team & Client Collaboration",
+                "Notifications & Mentions"
+            ],
+            "shortDesc": "Streamline communication so vital information is never lost.",
+            "link": "/solutions"
+        },
+        {
+            "id": "4",
+            "color": "#FC909F",
+            "icon": "FileChartColumn",
+            "title": "Reporting & Analytics",
+            "image": "./img/screen.jpeg",
+            "description": "Gain actionable insights into team performance with comprehensive reports.",
+            "features": [
+                "Customizable Dashboards",
+                "Productivity & Time Reports",
+                "Task Completion Analytics",
+                "Exportable Data"
+            ],
+            "shortDesc": "Centralize time tracking to enhance accuracy and boost productivity.",
+            "link": "/resources"
+        },
+        {
+            "id": "5",
+            "color": "#135E90",
+            "icon": "Network",
+            "title": "Employee Management",
+            "image": "./img/laptop.jpeg",
+            "description": "Manage your team effortlessly by viewing employee lists, assigning roles, and monitoring attendance.",
+            "features": [
+                "Employee Directory",
+                "Role Assignment",
+                "Attendance Overview",
+                "Performance Monitoring"
+            ],
+            "shortDesc": "Empower your HR processes and keep your workforce organized.",
+            "link": "/faq"
+        }
+    ]
+}

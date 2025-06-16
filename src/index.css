@@ -1,7 +1,20 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-brands/css/uicons-brands.css');
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-solid/css/uicons-solid.css');
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-straight/css/uicons-regular-straight.css');
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (max-width: 768px) {
+  /* Sample responsive styles */
+  body {
+    font-size: 14px;
+  }
+}
 
 @layer base {
   :root {
@@ -49,6 +62,7 @@
 @layer base {
   * {
     @apply border-border;
+    font-family: 'Poppins', sans-serif;
   }
 
   body {
@@ -58,11 +72,12 @@
 }
 
 .hero-gradient {
-  background: linear-gradient(150deg, rgba(230, 247, 244, 0.8) 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, #1bb1890f, #fff);
+  
 }
 
 .feature-card {
-  @apply p-6 rounded-xl border border-gray-100 hover:shadow-md transition-all duration-300 h-full;
+  @apply p-6 rounded-xl border border-gray-200 hover:shadow-md transition-all duration-300 h-full;
 }
 
 .stats-gradient {
